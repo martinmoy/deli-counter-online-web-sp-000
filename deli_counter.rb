@@ -1,4 +1,4 @@
-katz_deli=[]
+
 
 def line(x)
   katz_deli = []
