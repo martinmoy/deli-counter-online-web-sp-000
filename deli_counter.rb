@@ -6,6 +6,7 @@ def take_a_number(katz_deli, name)
 end
 
 def line(kx)
+  katz_deli=[]
   if kx.length == 0
     puts "The line is currently empty."
   else
